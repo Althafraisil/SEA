@@ -1,0 +1,39 @@
+body{
+    font-family: 'segoe UI';
+    background-color:rgb(26, 52, 68);
+    color:ghostwhite;
+    padding: 2rem;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 60px;
+    border: 1px solid rgba(249, 252, 255, 0.2);
+}
+
+.highlight{
+    background-color: rgb(185, 201, 208);
+    color:rgb(26, 52, 68);
+}
+
+ul{
+    line-height: 1.0;
+}
+
+.btn-aksi{
+    margin-top: 20px;
+    padding: 3px 3px;
+    background-color: rgb(185, 201, 208);
+    color:black;
+    border:5px solid rgba(249, 252, 255, 0.2);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-aksi:hover{
+    background-color: rgb(185, 201, 208);
+    color:rgb(26, 52, 68);
+}
